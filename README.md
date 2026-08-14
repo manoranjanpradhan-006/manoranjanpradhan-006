@@ -84,6 +84,28 @@
 
 ---
 
+### 🔥 Featured Projects
+
+#### 🧠 [CodeSense AI](https://github.com/) — Chat with Any GitHub Repository
+`React` `JavaScript` `Node.js` `LangChain` `ChromaDB` `Gemini API` `Docker` `MongoDB`
+- Full-stack AI developer assistant that parses and explains complex GitHub repositories, cutting down codebase exploration time.
+- Low-latency **RAG pipeline** (LangChain + ChromaDB + Gemini API) delivering context-grounded, code-aware answers.
+- Visual repository mapping layer indexing source files across **5+ languages**, enabling semantic search in **under 3 seconds** per query.
+- Multi-turn chat interface with TanStack Query and session handling for persistent conversational context.
+- Dockerized and deployed via Vercel + Railway — used by **15+ active student developers**, cutting onboarding time by **40%**.
+
+#### 🗺️ [LocalLens](https://github.com/) — Travel India Smartly
+`React` `JavaScript` `Node.js` `Leaflet` `Gemini API` `Docker` `MongoDB` `REST APIs`
+- Full-stack travel discovery platform unifying destination discovery, dining, and attractions.
+- Interactive Leaflet-based map covering **50+ points of interest** per city, backed by Express.js + MongoDB.
+- Integrated **3+ external APIs** (OpenStreetMap, Overpass, Nominatim) via Axios for live geospatial data.
+- Gemini API-powered itinerary planner generating personalized, day-by-day travel plans.
+- Dockerized with GitHub Actions CI/CD — validated by **10+ active travelers** planning real routes across India.
+
+> ✏️ Replace the `github.com/` placeholders above with the actual repo links for CodeSense AI and LocalLens, and add live-demo links if you'd like buttons for those too.
+
+---
+
 ### 🎓 Education
 
 **Oxford College of Engineering and Management**, Bhubaneswar, Odisha, India
@@ -103,15 +125,13 @@ Bachelor of Technology (B.Tech) in Computer Science and Engineering — CGPA: **
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Manoranjan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjan-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manoranjanpradhan-006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoranjanpradhan-006&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoranjan-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoranjanpradhan-006&theme=tokyonight&hide_border=true" />
 </p>
-
-> ⚠️ Update `Manoranjan-dev` above to your **exact GitHub username** — these stat widgets are keyed off your GitHub handle, not LeetCode, so they'll only render correctly once that matches.
 
 ---
 

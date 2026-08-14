@@ -59,76 +59,82 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
 
 ### 👨‍💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript,html,css" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux,sass" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
 ### ⚙️ Backend Development & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square" />
   <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC_Architecture-6DB33F?style=flat-square" />
 </p>
 
-### 🗄️ Databases & Cloud Storage
+### 🗄️ Databases & Storage
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/ChromaDB-Vector_DB-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloudinary-Media_Cloud-blue?style=flat-square&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB_(Vector_DB)-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
 </p>
 
 ### 🤖 AI, Machine Learning & GenAI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-Contextual_Search-FF6F00?style=flat-square" />
   <img src="https://img.shields.io/badge/LLMs_%26_Prompt_Engineering-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Agents_%26_Tooling-008080?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector_Embeddings-Semantic_Search-2E7D32?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agents-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_Embeddings-2E7D32?style=flat-square" />
 </p>
 
-### 🔧 DevOps, Tools & Environments
+### 🔧 DevOps, Tools & Fundamentals
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,linux,vercel,netlify" />
-</p>
-
-### 📚 Core Computer Science Fundamentals
-<p align="left">
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming_(OOP)-339933?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database_Management_Systems_(DBMS)-336791?style=flat-square" />
-  <img src="https://img.shields.io/badge/Operating_Systems_(OS)-E95420?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Networks_(CN)-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/System_Design_Fundamentals-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-339933?style=flat-square" />
+  <img src="https://img.shields.io/badge/DBMS-336791?style=flat-square" />
+  <img src="https://img.shields.io/badge/Operating_Systems-E95420?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Networks-00599C?style=flat-square" />
 </p>
 
 ---
 
-## 🧠 Data Structures & Algorithms
+## 🧩 LeetCode Streaks & Problem Solving
 
-I regularly practice DSA and competitive programming concepts with a focus on problem-solving, time-space optimization, and technical interview preparation.
-
-### Core Topics
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Binary Search Trees` • `Graphs` • `Heaps` • `Hashing` • `Binary Search` • `Two Pointers` • `Sliding Window` • `Recursion & Backtracking` • `Greedy Algorithms` • `Dynamic Programming` • `Tries` • `Disjoint Set Union (DSU)`
-
-<br/>
-
-<p align="left">
+<div align="center">
   <a href="https://leetcode.com/u/Manoranjan-dev/">
-    <img src="https://leetcard.jacoblin.cool/Manoranjan-dev?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" width="480px" />
+    <img src="https://leetcard.jacoblin.cool/Manoranjan-dev?theme=tokyonight&font=Fira+Code&ext=streak" alt="LeetCode Streak & Stats" width="520px" />
   </a>
-</p>
+</div>
 
 ---
 

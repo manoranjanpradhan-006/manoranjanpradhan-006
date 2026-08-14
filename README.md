@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Manoranjan Pradhan
+<!-- Animated Top Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Hi%20there,%20I'm%20Manoranjan%20Pradhan%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%" />
+</div>
 
 ### 💻 Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
@@ -150,14 +153,6 @@ I regularly practice DSA and competitive programming concepts with a focus on pr
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manoranjanpradhan-006&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manoranjanpradhan-006&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---

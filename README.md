@@ -14,7 +14,7 @@
 
 <!-- Social & Contact Badges -->
 <p align="left">
-  <a href="https://manoranjanpradhan.dev">
+  <a href="https://manoranjan-pradhandev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/manoranjan-pradhan-dev">

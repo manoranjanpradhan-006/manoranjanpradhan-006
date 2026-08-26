@@ -57,7 +57,7 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+### 👨💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -136,15 +136,6 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
   </a>
 </div>
 
-<!-- --- -->
-
-<!-- ## 📊 GitHub Statistics -->
-
-<!-- <p align="center"> -->
-  <!-- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=manoranjanpradhan-006&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" /> -->
-  <!-- <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoranjanpradhan-006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /> -->
-<!-- </p> -->
-
 ---
 
 ## 🔥 GitHub Streak
@@ -152,14 +143,6 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoranjanpradhan-006&theme=tokyonight&hide_border=true" />
 </p>
-
-<!-- --- -->
-
-<!-- ## 📈 Contribution Activity -->
-
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=manoranjanpradhan-006&theme=tokyo-night&hide_border=true" /> -->
-<!-- </p> -->
 
 ---
 
@@ -187,7 +170,6 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
   <img src="https://img.shields.io/badge/Resume-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
-
 </p>
 
 ---
@@ -196,3 +178,8 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
   <b>💻 Build. Learn. Solve. Repeat. 🚀</b><br/>
   <i>Thanks for visiting my profile! Feel free to explore my repositories and drop a ⭐ if you find something interesting!</i>
 </p>
+
+<!-- Animated Wave Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" />
+</div>

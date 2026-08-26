@@ -155,11 +155,11 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
 
 ---
 
-## 📈 Contribution Activity
+<!-- ## 📈 Contribution Activity -->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manoranjanpradhan-006&theme=tokyo-night&hide_border=true" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=manoranjanpradhan-006&theme=tokyo-night&hide_border=true" /> -->
+<!-- </p> -->
 
 ---
 

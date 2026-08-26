@@ -138,12 +138,12 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics -->
 
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=manoranjanpradhan-006&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoranjanpradhan-006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=manoranjanpradhan-006&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" /> -->
+  <!-- <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoranjanpradhan-006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /> -->
+<!-- </p> -->
 
 ---
 

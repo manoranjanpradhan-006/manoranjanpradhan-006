@@ -136,7 +136,7 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
   </a>
 </div>
 
----
+<!-- --- -->
 
 <!-- ## 📊 GitHub Statistics -->
 
@@ -153,7 +153,7 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoranjanpradhan-006&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<!-- --- -->
 
 <!-- ## 📈 Contribution Activity -->
 

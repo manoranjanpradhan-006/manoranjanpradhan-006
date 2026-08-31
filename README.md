@@ -178,7 +178,6 @@ I'm particularly interested in **Software Engineering, Full-Stack Development, A
   <b>💻 Build. Learn. Solve. Repeat. 🚀</b><br/>
   <i>Thanks for visiting my profile! Feel free to explore my repositories and drop a ⭐ if you find something interesting!</i>
 </p>
-
 <!-- Animated Wave Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" />
